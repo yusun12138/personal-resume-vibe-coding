@@ -606,6 +606,7 @@
   font-size: 22px;
   font-weight: 700;
   color: var(--text-primary);
+  white-space: nowrap;
 }
 
 .timeline-role {
