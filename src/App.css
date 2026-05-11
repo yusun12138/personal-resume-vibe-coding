@@ -1303,6 +1303,15 @@
     height: 12px;
   }
 
+  .timeline-header {
+    flex-direction: column;
+    gap: 4px;
+  }
+
+  .timeline-company {
+    font-size: 20px;
+  }
+
   .container {
     padding: 0 16px;
   }
